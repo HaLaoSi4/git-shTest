@@ -1,15 +1,10 @@
-dwadawdhdakwdkdhauw
-dwadawdhdakwdkdhauw
-dwadawdhdakwdkdhauw
-dwadawdhdakwdkdhauw
-dwadawdhdakwdkdhauw
-dwadawdhdakwdkdhauw
-dwadawdhdakwdkdhauw
-dwadawdhdakwdkdhauw
-dwadawdhdakwdkdhauw
-dwadawdhdakwdkdhauw
-dwadawdhdakwdkdhauw
-dwadawdhdakwdkdhauw
-dwadawdhdakwdkdhauw
-dwadawdhdakwdkdhauw
-1111111111111111111
+package Tst;
+
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+        System.out.println("hello world");
+        System.out.println("hello world");
+        System.out.println("hello world1");
+    }
+}
